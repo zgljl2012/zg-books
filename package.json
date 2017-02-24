@@ -1,0 +1,14 @@
+{
+  "name": "zg-books",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zgljl2012/zg-books",
+  "bugs": {
+    "email": "zgljl2012@gmail.com"
+  },
+  "scripts":{
+  	"start":"node app"
+  },
+  "dependencies": {
+    "koa": "^1.2.5"
+  }
+}
